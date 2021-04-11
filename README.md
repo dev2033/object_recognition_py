@@ -10,8 +10,9 @@ tensorflow-gpu, если с процессора то tensorflow.
 
 Ссылки на библиотеки:
 
-<a href="https://www.tensorflow.org/">Tensorflow</a>
-<a href="https://pixellib.readthedocs.io/en/latest/">pixellib</a>
+1. <a href="https://www.tensorflow.org/">Tensorflow</a>
+
+2. <a href="https://pixellib.readthedocs.io/en/latest/">pixellib</a>
 
 Ссылка на готовую обученую 'сеть'(фильтры и маски выделения конкретных объектов):
 
