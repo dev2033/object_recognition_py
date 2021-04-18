@@ -1,5 +1,7 @@
 # Машинное обучение! Распознавание объектов!
 
+***Для папки src:***
+
 ***Стек:***
 1. Python3.9
 2. pixellib
@@ -42,3 +44,15 @@ https://github.com/matterport/Mask_RCNN/releases/
 3. Перейти в файл main.py и прописать путь до скачанной готовой обученной  сети(MASK)
 
 4. Также указать пути и названия фотографий(одна входная другая выходная, то есть то что выйдет в итоге)
+
+
+
+***Для папки face_recognition:***
+
+```
+sudo apt-get install libboost-all-dev libgtk-3-dev build-essential cmake
+```
+
+```
+pip install -r requirements.txt
+```
